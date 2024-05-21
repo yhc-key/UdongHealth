@@ -7,7 +7,7 @@
             <a href="https://github.com/yhc-key">
               <img src="https://avatars.githubusercontent.com/u/139313175?v=4" width="100">
               <br />
-              <b>조용환(팀장)</b>
+              <b>*</b>
             </a> 
         </td>
         <td style="min-width: 250px;">
